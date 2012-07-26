@@ -1,0 +1,11 @@
+version: 1
+DN: uid=testuserAD,ou=People,o=isp
+objectClass: organizationalPerson
+objectClass: person
+objectClass: inetOrgPerson
+objectClass: top
+cn: nomeAD
+sn: cognomeAD
+uid: testuserAD
+userpassword:: cGFzc3dvcmQxMjM=
+
